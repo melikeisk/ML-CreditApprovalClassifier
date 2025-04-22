@@ -141,13 +141,13 @@ Model çıktılarına `outputs/` klasöründen ulaşabilirsiniz:
 
 Projenin yapısı ve çalışma mantığını daha iyi anlamak için aşağıdaki dokümanlara göz atabilirsiniz:
 
-- [`📄 docs/proje_mimarisi.md`](docs/proje_mimarisi.md)  
+- [`📄 docs/eda_summary.md`](docs/eda_summary.md)  
   ➤ Projenin klasör yapısı, veri akışı, dosyaların görevleri ve genel işleyişi açıklanır.
 
-- [`📄 docs/veri_olusturma.md`](docs/veri_olusturma.md)  
+- [`📄 docs/data_description.md`](docs/data_description.md)
   ➤ Üretilen yapay verinin nasıl oluşturulduğu, kullanılan değişkenler, değer aralıkları ve etiketleme kuralları detaylandırılır.
 
-- [`📄 docs/model_egitimi.md`](docs/model_egitimi.md)  
+- [`📄 docs/model_description`](docs/model_description.md)  
   ➤ Modelin eğitimi, test işlemi, kullanılan algoritma, başarı metrikleri ve değerlendirme sonuçları açıklanır.
 
 ---
